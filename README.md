@@ -1,2 +1,2 @@
 # DotNetDependencies
-Trabalhei com dependências em .NET com manipulação de data e hora de fuso horario.
+Repositório feito para documentar meus estudos no MSLearn sobre dependências em .NET 
